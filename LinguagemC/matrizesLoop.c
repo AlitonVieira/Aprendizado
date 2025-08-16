@@ -2,8 +2,8 @@
 
 
 //facilita a manutenção do código para futuras alterações
-#define LINHAS 5 
-#define COLUNAS 5
+#define LINHAS 10 
+#define COLUNAS 10
 
 int main(){
 
