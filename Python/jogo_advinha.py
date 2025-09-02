@@ -18,4 +18,8 @@ if N == number_int:
     print('Você é mais esperto do que eu imaginava, Parabéns!')
 else:
     print('HAHAHA! PERDEDOR!')
-
+while True:
+    saida = input('Escreva sair para encerrar o jogo ou sim para jogar novamente: ')
+    if saida.lower() == 'sair':
+        print('Jogo Encerrado!')
+        break
